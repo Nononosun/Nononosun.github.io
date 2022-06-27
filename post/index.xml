@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://Nononosun/Nononosun.github.io.git/post/</link>
+    <link>https://Nononosun.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 11:59:20 +0800</lastBuildDate><atom:link href="https://Nononosun/Nononosun.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 11:59:20 +0800</lastBuildDate><atom:link href="https://Nononosun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://Nononosun/Nononosun.github.io.git/post/blog/</link>
+      <link>https://Nononosun.github.io/post/blog/</link>
       <pubDate>Mon, 27 Jun 2022 11:59:20 +0800</pubDate>
       
-      <guid>https://Nononosun/Nononosun.github.io.git/post/blog/</guid>
+      <guid>https://Nononosun.github.io/post/blog/</guid>
       <description>SUNSHINE.first blog</description>
     </item>
     
